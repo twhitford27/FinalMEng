@@ -1,0 +1,5 @@
+data_logger_1 = 1 second average of frequency data and produces a graph at the end.
+
+data_logger_2 = records all received frequency data and doesn't produce a graph at the end.
+
+data_logger_3 = compares data received data to Elexon data live.
